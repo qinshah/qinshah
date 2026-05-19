@@ -1,4 +1,4 @@
-![Your GitHub stats](https://card.shiina.xyz/card/qinshah)
+![Your GitHub stats](https://pixel-profile.vercel.app/api/github-stats?username=qinshah)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="28" />
